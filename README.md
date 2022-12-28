@@ -2,7 +2,7 @@
 Test
 <details>
     <summary>
-        <h3 style="display: inline-block">Before And After Preview</h3>
+        <h3>Before And After Preview</h3>
     </summary>
 
 ### Before And After
